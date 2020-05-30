@@ -93,19 +93,19 @@ a:hover {
   color: #9370DB;
 }
 
-ol {
+ol, p2 {
   color: #483D8B;
 }
 
-p, .voettekst, li {
+p, .voettekst, li, p2 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
-p, li {
+p, li, p2 {
   font-size: 14pt;
 }
 
-li {
+li, p2 {
   margin-left: 60px;
 }
 
