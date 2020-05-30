@@ -60,10 +60,19 @@ li {
   margin-left: 60px;
 }
 
+.logos {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  padding: 5px;
+  text-align: center;
+}
+
 .voettekst {
   color: #9370DB;
-  margin-top: 70px;
-  margin-bottom: -90px;
   font-size: 10pt;
   text-align: center;
 }
