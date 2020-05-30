@@ -44,6 +44,30 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
+ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+
+ul .menu {
+  display:inline;
+}
+
+ul a {
+  font-family: 'Oswald', sans-serif;
+  color: #483D8B;
+  text-decoration: none;
+  display:inline-block;
+  padding:10px;
+  margin-bottom: 20px;
+}
+
+a:hover {
+  color: #9370DB;
+}
+
 ol {
   color: #483D8B;
 }
