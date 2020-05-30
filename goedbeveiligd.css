@@ -2,8 +2,16 @@ body {
   background-color: #F0FFF0;
 }
 
+.kader {
+  background-color: #48D1CC;
+}
+
 h1, h2 {
   font-family: 'Oswald', sans-serif;
+}
+
+h1, p {
+  color: #FFFFFF;
 }
 
 h1, p {
