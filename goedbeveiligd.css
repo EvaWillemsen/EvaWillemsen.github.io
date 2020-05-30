@@ -4,6 +4,11 @@ body {
 
 .kader {
   background-color: #48D1CC;
+  width: 100vw;
+  height: 300px;
+  position: relative;
+  margin-left: -8px;
+  margin-top: -40px;
 }
 
 h1, h2 {
@@ -12,10 +17,11 @@ h1, h2 {
 
 h1, p {
   color: #FFFFFF;
+  text-align: center;
 }
 
-h1, p {
-  text-align: center;
+h1 {
+  padding-top: 50px;
 }
 
 h2 {
@@ -44,6 +50,7 @@ li {
 }
 
 .voettekst {
+  color: black;
   margin-top: 70px;
   margin-bottom: -90px;
   font-size: 10pt;
