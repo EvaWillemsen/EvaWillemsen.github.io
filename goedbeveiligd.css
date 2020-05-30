@@ -1,9 +1,9 @@
 body {
-  background-color: #F0FFF0;
+  background-color: #E0FFFF;
 }
 
 .kader {
-  background-color: #48D1CC;
+  background-color: #6A5ACD;
   width: 100vw;
   height: 300px;
   position: relative;
@@ -25,16 +25,20 @@ h1 {
 }
 
 h2 {
+  color: #483D8B;
   margin-top: 60px;
+  margin-left: 50px;
 }
 
 h3 {
+  color: #9370DB;
   margin-top: -15px;
+  margin-left: 70px;
   font-family: 'Montserrat', sans-serif;
 }
 
-h2, h3 {
-  margin-left: 50px;
+ol {
+  color: #483D8B;
 }
 
 p, .voettekst, li {
