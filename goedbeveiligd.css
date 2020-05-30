@@ -109,12 +109,12 @@ li {
   margin-left: 60px;
 }
 
-.logos {
+.logos, .logos2 {
   display: flex;
   justify-content: center;
 }
 
-.link, .link2 {
+.link, .link2, .link3 {
   text-align: center;
 }
 
@@ -123,9 +123,13 @@ li {
   margin-top: 50px;
 }
 
-img{
-  padding: 5px;
-  text-align: center;
+.logos2 {
+  margin-top: 100px;
+  margin-left: 20%;
+}
+
+.link3 {
+  margin-top: 100px;
 }
 
 .voettekst {
