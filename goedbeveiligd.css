@@ -11,6 +11,31 @@ body {
   margin-top: -40px;
 }
 
+.kader2 {
+  background-color: #6A5ACD;
+  width: 100vw;
+  height: 100px;
+  position: relative;
+  margin-left: -8px;
+  margin-top: -80px;
+  margin-bottom: 50px;
+  padding-bottom: 90px;
+}
+
+.tittel, .tittel2 {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.tittel {
+  font-size: 30pt;
+  padding-top: 40px;
+}
+
+.tittel2 {
+  font-size: 16pt;
+}
+
 .lijn {
   border-top: 1px solid #9370DB;
   width: 100%;
@@ -28,7 +53,7 @@ h1, p {
 }
 
 h1 {
-  padding-top: 50px;
+  padding-top: 40px;
 }
 
 h2 {
