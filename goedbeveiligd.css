@@ -110,12 +110,20 @@ li {
 }
 
 .logos {
-  margin-top: 100px;
   display: flex;
   justify-content: center;
 }
 
-img {
+.link, .link2 {
+  text-align: center;
+}
+
+.link2 {
+  margin-left: 10%;
+  margin-top: 50px;
+}
+
+img{
   padding: 5px;
   text-align: center;
 }
