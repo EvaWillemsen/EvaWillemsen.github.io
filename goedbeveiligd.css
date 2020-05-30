@@ -11,6 +11,13 @@ body {
   margin-top: -40px;
 }
 
+.lijn {
+  border-top: 1px solid #9370DB;
+  width: 100%;
+  margin-top: 40px;
+  opacity: 40%;
+}
+
 h1, h2 {
   font-family: 'Oswald', sans-serif;
 }
