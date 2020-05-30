@@ -13,3 +13,11 @@ h3 {
 p, p2, li {
   font-family: 'Open Sans Condensed', sans-serif;
 }
+
+p, li {
+  font-size: 14pt;
+}
+
+p2 {
+  font-size: 10pt;
+}
